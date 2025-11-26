@@ -1,65 +1,172 @@
-# MarketAI — Institutional Market Intelligence Engine
-
-MarketAI is an advanced financial analysis system designed to decode market intent, 
-detect institutional behavior, and synchronize multi-market data (spot + futures + liquidity)
-to forecast macro and micro market movements with exceptional precision.
-
-This project is built on four fundamental roots:
-
-1. Root 1 — Market Structure Engine  
-2. Root 2 — Smart Indicators & Absorption Logic  
-3. Root 3 — Multi-Market Intent Engine (Spot/Futures Delta)  
-4. Root 4 — Decision & Execution Engine
-
-MarketAI is not a traditional retail-indicator system.  
-It is a high-level analytics engine built around market DNA principles:
-Absorption → Exhaustion → Divergence → Reversal → Expansion.
+# 📈 MarketAI — Institutional Market Intelligence Engine  
+### Version: 0.1 (100-Day Architecture Phase)  
+### Author: Anis Dahmane × AI Systems Team  
 
 ---
 
-## 🧠 Core Features
+## 🧩 ما هو MarketAI؟
 
-- Market Structure Engine  
-  Detects swing points, deviations, slope shifts, and institutional displacement.
+MarketAI هو نظام تحليل مؤسسي عالي الدقة،  
+تم تصميمه لبناء *Understanding Layer* متقدمة للسوق عبر دمج:
 
-- Smart Indicators  
-  Absorption zones, imbalance scanners, liquidity pressure detection, and divergence engines.
+- بيانات Futures
+- بيانات Spot
+- Microstructure Analytics
+- Institutional Intent Detection
+- Divergence Engines
+- Multi-Frame Market Cycle Modeling
+- Automated Decision Layers
 
-- Multi-Market Synchronization  
-  Compares futures vs spot behavior, delta shifts, liquidity flow differences.
-
-- Intent Engine  
-  Determines true market direction using rulesets, microstructure filters, and discrepancy analysis.
-
-- Decision Engine  
-  Produces trading signals for swing, day trading, and scalping models.
-
-- Execution Layer  
-  Webhook-based order execution, position management, and risk controls.
+يتم بناء النظام بالكامل من الصفر ليكون  
+أداة تداول ذات مستوى مؤسسي — وليست مجرد بوت صغير أو مؤشرات تقليدية.
 
 ---
 
-## 🧩 Project Structure
-MarketAI/ │── architecture/        
- # System design & architecture plans │── backtester/          
- # Backtesting engine (v1 / v2) │── core/                
- # Main logical engine (Root 1-4) │── data/                
- # Raw, normalized, and sample data │── DNA/                 
- # Market cycle theory & internal rules │── execution/           
- # Webhook API + Risk + Order Engine │── progress/            
- # Your 100-day progress documentation │── src/                 
- # Experimental code │── test/                
- # Unit testing │── ui/                 
- # Dashboard, logs, and reporting
+## 🎯 هدف النسخة الأولى (100-Day Version)
+
+هذه النسخة الأولى ليست المنتج النهائي،  
+بل هي الهيكل العظمي الرسمي للمشروع.
+
+هدف النسخة 100 يوم:
+
+1. بناء قلب المشروع (Core Architecture)
+2. تأسيس DNA الخاص بالنظام  
+3. تحديد قواعد institutional intent  
+4. جمع البيانات + معالجتها + توحيدها  
+5. إنشاء Tools مخصصة (ليست RSI/ MACD)  
+6. تصميم طبقات القرار Decision Layers  
+7. تنفيذ نسخة Backtester  
+8. إنتاج Dashboard بسيطة تشغّل النظام  
+9. تجهيز نسخة قابلة للتطوير لاحقًا (V2, V3…)
+
+هذه النسخة تضع العمود الفقري  
+الذي ستُبنى عليه النسخة النهائية للمشروع التي تعمل أوتوماتيكياً بالكامل.
+
 ---
 
-## 🚀 Vision
+## 🌐 الرؤية
 
-MarketAI is designed to scale into a full institutional intelligence system capable of:
+MarketAI مصمم ليكون:
 
-- Predicting market intent  
-- Automating swing/day/scalping execution  
-- Synchronizing liquidity across markets  
-- Providing professional-grade analytics  
+- نظام تفكير مالي مؤسسي
+- يفهم السوق كما يفهمه كبار اللاعبين
+- يتعامل مع الـ Spot / Futures كمصدرين مكملين
+- يكتشف عدم التوازن (Discrepancy)
+- يحلل الزخم الحقيقي (True Flow)
+- يحدد نية السوق وليس مجرد اتجاه
+- يحدد أين يحدث الامتصاص – الانفجار – الانعكاس
+- يقرأ مراحل Market Cycle كما تراها المؤسسات
 
-This README will evolve as the system matures.
+النسخة الأولى تبني العقل  
+والنسخ القادمة تضيف العضلات والأطراف.
+
+---
+
+## 🏗️ الهيكلة العامة للمشروع (Architecture Overview)
+MarketAI/ │ ├── core/                  ← المحرك الأساسي للتحليل │   ├── divergence/        ← محرك اختلافات Spot/Futures + الزوايا │   ├── absorption/        ← مناطق الامتصاص + الضغط المؤسسي │   ├── intent_engine/     ← قراءة نية السوق │   ├── decision_engine/   ← طبقة اتخاذ القرار │   └── data_collector/    ← وحدات جمع وتطبيع البيانات │ ├── DNA/                   ← العقل الجيني للمشروع │   ├── conditions.md │   └── Phases/ │       ├── Absorption.md │       ├── Discrepancy.md │       ├── Exhaustion.md │       └── Release.md │ ├── Engine/                ← المحرك التشغيلي للنظام │ ├── execution/             ← طبقة تنفيذ الأوامر + إدارة المخاطر │ ├── backtester/            ← أدوات اختبار الإستراتيجيات │ ├── progress/              ← توثيق يومي لكل خطوة │ ├── ui/                    ← لوحة التحكم والواجهة │ └── data/                  ← بيانات خام + بيانات معالجة
+---
+
+## 🧬 مكونات النظام الأساسية (System Components)
+
+### 1) Data Layer
+- جمع بيانات Futures  
+- جمع بيانات Spot  
+- توحيد الإطارات الزمنية  
+- معالجة الانحرافات data normalization  
+
+### 2) DNA Engine
+قلب المشروع، يحتوي:
+
+- قواعد قراءة السوق  
+- تعريف مراحل السوق  
+- institutional intent rules  
+- قواعد divergence  
+- قواعد absorption zones  
+- Probability Engine للترجيح  
+
+### 3) Microstructure Layer
+- تحليل اختلاف القمم والقيعان  
+- قراءة زوايا الحركة  
+- اكتشاف تدفق الأموال الحقيقي  
+- التمييز بين الـ False Move و True Move  
+
+### 4) Decision Layer
+- تجميع الإشارات  
+- ترجيحها  
+- تحديد:  
+  - Long  
+  - Short  
+  - أو No Trade  
+- استخراج مستوى الدخول، الخروج، وقف الخسارة  
+
+### 5) Backtesting Layer
+اختبار أي إستراتيجية يتم بناؤها.
+
+### 6) Execution Layer
+تشغيل النظام أوتوماتيكياً على منصات التداول.
+
+### 7) UI Dashboard
+واجهة رسومية تعرض:
+
+- اتجاه السوق  
+- القوة المؤسسية  
+- divergence  
+- الامتصاص  
+- سيناريوهات التداول  
+- نتائج backtesting  
+
+---
+
+## 🛠️ كيف يعمل MarketAI؟ (High-Level Logic)
+
+1. استلام بيانات Spot/Futures  
+2. دمج وتوحيد البيانات  
+3. اكتشاف الاختلافات (Divergence Engine)  
+4. تحديد نية السوق (Institutional Intent Engine)  
+5. قياس الزخم الحقيقي  
+6. حساب المرحلة الحالية من Market Cycle  
+7. إنتاج إشارة (Bias)  
+8. ترجيحها عبر Probability Engine  
+9. إرسال إشارة للـ Execution Layer  
+10. تسجيل النتائج في Dashboard  
+
+---
+
+## 🚀 أين نحن في النسخة الحالية؟
+
+تم إنجاز:
+
+- بناء الهيكلة العامة  
+- ملفات DNA الأساسية  
+- أدوات جمع البيانات الأولية  
+- أساس divergence engine  
+- أيام 1–6 من progress  
+- اختبار البيانات الأولى  
+- بناء الهيكل العام للـ dashboard
+
+القادم:
+
+- Day 7 → أول رسم بياني  
+- Day 8 → دمج Spot/Futures  
+- Day 10 → أول Divergence Prototype  
+- Day 15 → أول Tool رسمية  
+- Day 30 → microstructure filters  
+- Day 50 → Decision Engine  
+- Day 70 → Backtester  
+- Day 100 → أول نظام تداول شبه جاهز  
+
+---
+
+## ⚠️ Notes
+
+- المشروع ليس معدًا للبيع.  
+- المشروع مصمم للاستخدام الشخصي فقط.  
+- المشروع لا يستخدم مؤشرات تجارية ريتايل.  
+- كل الأدوات يتم بناؤها من الصفر.
+
+---
+
+## 📩 للتواصل
+
+هذا المشروع شخصي — ولا يُقبل فيه أي طرف خارجي.  
+هذا الملف هو واجهة تعريفية فقط.

@@ -1,0 +1,12 @@
+Warning: wildcards not supported in HTTP.
+--2025-11-26 15:26:45--  https://www.barchart.com/futures/quotes/GC*0/historical-download?startDate=20241101
+Resolving www.barchart.com (www.barchart.com)... 52.222.132.119, 52.222.132.96, 52.222.132.22, ...
+Connecting to www.barchart.com (www.barchart.com)|52.222.132.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘historical-download?startDate=20241101’
+
+          historica     [<=>                 ]       0  --.-KB/s                        historical     [ <=>                ]  45.13K   210KB/s                       historical-     [  <=>               ] 316.00K   756KB/s               historical-download     [   <=>              ] 472.35K   966KB/s    in 0.5s    
+
+2025-11-26 15:26:46 (966 KB/s) - ‘historical-download?startDate=20241101’ saved [483686]
+

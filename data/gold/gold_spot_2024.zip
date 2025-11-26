@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://www.histdata.com/xmlrpc.php" />
+	<!--[if lt IE 9]>
+	<script src="https://www.histdata.com/wp-content/themes/blogotron/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<title>Download Free Forex Historical Data &#8211; HistData.com</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="HistData.com &raquo; Feed" href="https://www.histdata.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HistData.com &raquo; Comments Feed" href="https://www.histdata.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HistData.com &raquo; Download Free Forex Historical Data Comments Feed" href="https://www.histdata.com/download-free-forex-historical-data/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.histdata.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.18"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.histdata.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.18' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.histdata.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.histdata.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='blogotron-style-css'  href='https://www.histdata.com/wp-content/themes/blogotron/style.css?ver=5.4.18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='blogotron-ie-style-css'  href='https://www.histdata.com/wp-content/themes/blogotron/styles/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.histdata.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.histdata.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
+var log_object = {"ajax_url":"https:\/\/www.histdata.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.histdata.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var blogotronStringJs = {"iFileBrowse":"Choose file...","iFileNotSelected":"File is not selected.","iSearchText":"Enter search keyword"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.histdata.com/wp-content/themes/blogotron/js/script.js'></script>
+<link rel='https://api.w.org/' href='https://www.histdata.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.histdata.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.histdata.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.18" />
+<link rel="canonical" href="https://www.histdata.com/download-free-forex-historical-data/" />
+<link rel='shortlink' href='https://www.histdata.com/?p=31' />
+<link rel="alternate" type="application/json+oembed" href="https://www.histdata.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.histdata.com%2Fdownload-free-forex-historical-data%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.histdata.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.histdata.com%2Fdownload-free-forex-historical-data%2F&#038;format=xml" />
+        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.histdata.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '7afb2db7-2f38-4318-ae8b-5a927a55428b';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "HistData.com";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing! Cheers!";
+oneSignal_options['welcomeNotification']['url'] = "https://www.histdata.com";
+oneSignal_options['subdomainName'] = "HistData.com";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'wants to show notifications:';
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'This is an example notification';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Notifications will appear in your desktop';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Example Notification';
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Notifications will appear on your device';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = '(you can unsubscribe anytime)';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'ALLOW';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'NO THANKS';
+oneSignal_options['promptOptions']['siteName'] = 'https://www.histdata.com';
+oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Click Allow';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Subscribe notifications';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'You\&#039;ve subscribed notifications';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'You\&#039;ve blocked notifications';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Thank you for subscribing! Cheers!';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Welcome Again! Thank you for subscribing!';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'You won\&#039;t receive notifications from HistData.com';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Manage HistData.com Notifications';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'SUBSCRIBE';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'UNSUBSCRIBE';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Unblock Notifications';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Follow these instructions to unblock notifications';
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+	<style type="text/css" id="blogotron-header-css">
+			#main-header .site-title a,
+		#main-header .site-description {
+			color: #ffffff;
+		}
+		</style>
+<!-- Start of ADS -->
+	<script type="text/javascript">
+		var apntag = apntag || {};
+		apntag.anq = apntag.anq || [];
+		(function() {
+			var d = document, e = d.createElement('script'), p = d.getElementsByTagName('head')[0];
+			e.type = 'text/javascript';  e.async = true;
+			e.src = '//acdn.adnxs.com/ast/ast.js';
+			p.insertBefore(e, p.firstChild);
+		})();
+
+		apntag.anq.push(function() {
+			apntag.setPageOpts({
+				member: 6989
+			});
+		});
+
+		apntag.anq.push(function() {
+
+      		apntag.defineTag({
+				tagId: 13208338,
+				sizes: [[300,250],[300,600],[300,1050]],
+				keywords: {'position': ['RightRail_1']},
+				targetId: 'HistData_ROS_RightRail_1'
+			});
+			apntag.defineTag({
+				tagId: 13208339,
+				sizes: [[728,90]],
+				keywords: {'position': ['Top_Leaderboard']},
+				targetId: 'HistData_ROS_Top_Leaderboard'
+			});
+		});
+
+		apntag.anq.push(function() {
+			apntag.loadTags();
+		});
+	</script>
+	<!-- End of ADS -->
+</head>
+<body class="page-template page-template-template-processor-dyn page-template-template-processor-dyn-php page page-id-31">
+<div id="page-wrapper">
+			<header id="main-header" role="banner" style="height: 128px;">
+			<img class="header-image" src="https://www.histdata.com/wp-content/uploads/2020/05/ChartHeader.png" width="960" height="128" alt="HistData.com" />
+				<hgroup class="header-group">
+				<h1 class="site-title">
+					<a href="https://www.histdata.com" title="HistData.com" rel="home">HistData.com</a>
+				</h1>
+				<h2 class="site-description">Free Forex Historical Data</h2>
+			</hgroup><div style="width: 728px; height: 90px; position: relative; top: -110px; left: 210px; z-index: 10;"><div id="HistData_ROS_Top_Leaderboard" class="text-center">
+			<script type="text/javascript">
+			apntag.anq.push(function() {
+				apntag.showTag('HistData_ROS_Top_Leaderboard');
+			});
+			</script>
+		</div></div><!-- .header-group -->
+		</header><!-- #main-header -->
+		<div id="nav-wrapper">
+			<nav id="main-nav" role="navigation">
+				<div class="main-menu"><ul id="menu-homepage" class="custom-main-menu"><li id="menu-item-1360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1360"><a href="https://www.histdata.com">Home</a></li>
+<li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1366"><a href="https://www.histdata.com/download-free-forex-data/">Download Free Forex Data</a></li>
+<li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a href="https://www.histdata.com/download-by-ftp/">Download by FTP or SFTP</a></li>
+<li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a href="https://www.histdata.com/automatic-updates-forex-historical-data/">Automatic Updates</a></li>
+<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1364"><a href="https://www.histdata.com/data-transformation-services/">Data Transformation</a></li>
+<li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1373"><a href="https://www.histdata.com/f-a-q/">F.A.Q. / Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1375"><a href="https://www.histdata.com/f-a-q/data-files-merge-tool/">Data Files: Merge Tool</a></li>
+	<li id="menu-item-1374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1374"><a href="https://www.histdata.com/f-a-q/data-files-detailed-specification/">Data Files: Detailed Specification</a></li>
+	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a href="https://www.histdata.com/f-a-q/metatrader-how-to-import-from-csv/">MetaTrader: How to Import from CSV</a></li>
+	<li id="menu-item-1363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1363"><a href="https://www.histdata.com/cookies/">Cookies and Privacy on HistData.com</a></li>
+	<li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1361"><a href="https://www.histdata.com/privacy-policy-2/">Data Privacy Policy</a></li>
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="https://www.histdata.com/support/">Support</a></li>
+	<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="https://www.histdata.com/about-us/">About Us</a></li>
+</ul>
+</li>
+</ul></div>			</nav><!-- #main-nav -->
+		</div><!-- #nav-wrapper -->
+		<div id="content-wrapper">
+				<div id="content" role="main">
+				<h2 class="catheader">Download Free Forex Historical Data</h2> 				<div class="page-content">
+					
+			<strong>Download Step 2: Please, select the Forex Pair!</strong>
+			<p>From the 66 free forex crosses available to download, select the forex pair that you need.<br/>Select it from the below list.<br/></p>
+			<table width="500px" cellpadding="2" cellspacing="2" align="left"><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURUSD forex pair"><strong>EUR/USD</strong></a><br/>(2000/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURCHF forex pair"><strong>EUR/CHF</strong></a><br/>(2002/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURGBP" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURGBP forex pair"><strong>EUR/GBP</strong></a><br/>(2002/March)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURJPY forex pair"><strong>EUR/JPY</strong></a><br/>(2002/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURAUD" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURAUD forex pair"><strong>EUR/AUD</strong></a><br/>(2002/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDCAD" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDCAD forex pair"><strong>USD/CAD</strong></a><br/>(2000/June)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDCHF forex pair"><strong>USD/CHF</strong></a><br/>(2000/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDJPY forex pair"><strong>USD/JPY</strong></a><br/>(2000/May)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDMXN" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDMXN forex pair"><strong>USD/MXN</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPCHF forex pair"><strong>GBP/CHF</strong></a><br/>(2002/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPJPY forex pair"><strong>GBP/JPY</strong></a><br/>(2002/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPUSD forex pair"><strong>GBP/USD</strong></a><br/>(2000/May)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUDJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUDJPY forex pair"><strong>AUD/JPY</strong></a><br/>(2002/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUDUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUDUSD forex pair"><strong>AUD/USD</strong></a><br/>(2000/June)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/CHFJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for CHFJPY forex pair"><strong>CHF/JPY</strong></a><br/>(2002/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/NZDJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for NZDJPY forex pair"><strong>NZD/JPY</strong></a><br/>(2006/September)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/NZDUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for NZDUSD forex pair"><strong>NZD/USD</strong></a><br/>(2005/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAUUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAUUSD forex pair"><strong>XAU/USD</strong></a><br/>(2009/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURCAD" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURCAD forex pair"><strong>EUR/CAD</strong></a><br/>(2007/March)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUDCAD" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUDCAD forex pair"><strong>AUD/CAD</strong></a><br/>(2007/July)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/CADJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for CADJPY forex pair"><strong>CAD/JPY</strong></a><br/>(2007/March)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURNZD" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURNZD forex pair"><strong>EUR/NZD</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GRXEUR" title="Download Generic .CSV File Historical M1 Bar Data quotes for GRXEUR forex pair"><strong>GRX/EUR</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/NZDCAD" title="Download Generic .CSV File Historical M1 Bar Data quotes for NZDCAD forex pair"><strong>NZD/CAD</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/SGDJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for SGDJPY forex pair"><strong>SGD/JPY</strong></a><br/>(2008/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDHKD" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDHKD forex pair"><strong>USD/HKD</strong></a><br/>(2008/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDNOK" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDNOK forex pair"><strong>USD/NOK</strong></a><br/>(2008/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDTRY" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDTRY forex pair"><strong>USD/TRY</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAUAUD" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAUAUD forex pair"><strong>XAU/AUD</strong></a><br/>(2009/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUDCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUDCHF forex pair"><strong>AUD/CHF</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUXAUD" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUXAUD forex pair"><strong>AUX/AUD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURHUF" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURHUF forex pair"><strong>EUR/HUF</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURPLN" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURPLN forex pair"><strong>EUR/PLN</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/FRXEUR" title="Download Generic .CSV File Historical M1 Bar Data quotes for FRXEUR forex pair"><strong>FRX/EUR</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/HKXHKD" title="Download Generic .CSV File Historical M1 Bar Data quotes for HKXHKD forex pair"><strong>HKX/HKD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/NZDCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for NZDCHF forex pair"><strong>NZD/CHF</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/SPXUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for SPXUSD forex pair"><strong>SPX/USD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDHUF" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDHUF forex pair"><strong>USD/HUF</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDPLN" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDPLN forex pair"><strong>USD/PLN</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDZAR" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDZAR forex pair"><strong>USD/ZAR</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAUCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAUCHF forex pair"><strong>XAU/CHF</strong></a><br/>(2009/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ZARJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for ZARJPY forex pair"><strong>ZAR/JPY</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/BCOUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for BCOUSD forex pair"><strong>BCO/USD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ETXEUR" title="Download Generic .CSV File Historical M1 Bar Data quotes for ETXEUR forex pair"><strong>ETX/EUR</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURCZK" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURCZK forex pair"><strong>EUR/CZK</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURSEK" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURSEK forex pair"><strong>EUR/SEK</strong></a><br/>(2008/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPAUD" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPAUD forex pair"><strong>GBP/AUD</strong></a><br/>(2007/September)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPNZD" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPNZD forex pair"><strong>GBP/NZD</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/JPXJPY" title="Download Generic .CSV File Historical M1 Bar Data quotes for JPXJPY forex pair"><strong>JPX/JPY</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/UDXUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for UDXUSD forex pair"><strong>UDX/USD</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDCZK" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDCZK forex pair"><strong>USD/CZK</strong></a><br/>(2010/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDSEK" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDSEK forex pair"><strong>USD/SEK</strong></a><br/>(2008/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/WTIUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for WTIUSD forex pair"><strong>WTI/USD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAUEUR" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAUEUR forex pair"><strong>XAU/EUR</strong></a><br/>(2009/May)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/AUDNZD" title="Download Generic .CSV File Historical M1 Bar Data quotes for AUDNZD forex pair"><strong>AUD/NZD</strong></a><br/>(2007/September)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/CADCHF" title="Download Generic .CSV File Historical M1 Bar Data quotes for CADCHF forex pair"><strong>CAD/CHF</strong></a><br/>(2008/March)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURDKK" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURDKK forex pair"><strong>EUR/DKK</strong></a><br/>(2008/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURNOK" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURNOK forex pair"><strong>EUR/NOK</strong></a><br/>(2008/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/EURTRY" title="Download Generic .CSV File Historical M1 Bar Data quotes for EURTRY forex pair"><strong>EUR/TRY</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/GBPCAD" title="Download Generic .CSV File Historical M1 Bar Data quotes for GBPCAD forex pair"><strong>GBP/CAD</strong></a><br/>(2007/September)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/NSXUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for NSXUSD forex pair"><strong>NSX/USD</strong></a><br/>(2010/November)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/UKXGBP" title="Download Generic .CSV File Historical M1 Bar Data quotes for UKXGBP forex pair"><strong>UKX/GBP</strong></a><br/>(2010/November)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDDKK" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDDKK forex pair"><strong>USD/DKK</strong></a><br/>(2008/August)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/USDSGD" title="Download Generic .CSV File Historical M1 Bar Data quotes for USDSGD forex pair"><strong>USD/SGD</strong></a><br/>(2008/August)</td></tr><tr><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAGUSD" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAGUSD forex pair"><strong>XAG/USD</strong></a><br/>(2009/May)</td><td><a href="/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/XAUGBP" title="Download Generic .CSV File Historical M1 Bar Data quotes for XAUGBP forex pair"><strong>XAU/GBP</strong></a><br/>(2009/May)</td></tr></table>
+<br />&nbsp;<br />
+					<div><a href="javascript:history.back(-1);"><strong>&lt;&lt;&nbsp;Back</strong></a></div>
+				</div>				
+			</div>
+	<div id="sidebar" role="complementary">
+	        <aside id='hdcom_wdg_download_ftp' class='widget hdcom_wdg_download_ftp'>
+            
+        <p><center>For a more convenient access you can Download the Forex Historical Data by FTP.</center><br/><center>Get your FTP or SFTP access, via PayPal, here:</center></p>
+        <p><center><form style="margin-top: 20px; margin-bottom: 20px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="RZPQY2B5WA6C8" />
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form></center></p>
+        <p><center>For more details: <a href="/download-by-ftp/">Download by FTP</a><br/>DataFiles Last Updated at: <b>2025-11-23 21:12:14
+</b></center></p>
+        <div style="display: none;"></div>
+        </aside>
+        <aside id="text-3" class="widget widget_text">			<div class="textwidget"><div>
+<div id="HistData_ROS_RightRail_1" class="text-center"><script type="text/javascript">
+apntag.anq.push(function() {
+   apntag.showTag('HistData_ROS_RightRail_1');
+});
+</script>
+</div>
+</div>
+</div>
+		</aside>        <aside id='hdcom_wdg_gdrive_update' class='widget hdcom_wdg_gdrive_update'>
+        <h3 class="widget-title">Get Automatic Updates!</h3>
+        <p><center>You can get the Forex Historical Data Automatic Updates using Google Drive!</center><br/><center>Subscribe, via PayPal, here:</center></p>
+        <p><center><form style="margin-top: 20px; margin-bottom: 20px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="FS68SALSVSBBN" />
+<table>
+<tbody>
+<tr>
+<td><input name="on0" type="hidden" value="Select File Format:" />Select File Format:</td>
+</tr>
+<tr>
+<td><select name="os0">
+<option value="MetaTrader 4/5">MetaTrader 4/5 : $7.00 USD - monthly</option>
+<option value="Generic ASCII">Generic ASCII : $7.00 USD - monthly</option>
+<option value="Microsoft Excel">Microsoft Excel : $7.00 USD - monthly</option>
+<option value="NinjaTrader">NinjaTrader : $7.00 USD - monthly</option>
+<option value="MetaStock">MetaStock : $7.00 USD - monthly</option>
+</select></td>
+</tr>
+<tr>
+<td><input name="on1" type="hidden" value="GoogleDrive/GMail Address:" />GoogleDrive/GMail Address:</td>
+</tr>
+<tr>
+<td><input maxlength="200" name="os1" type="text" /></td>
+</tr>
+</tbody>
+</table>
+<input name="currency_code" type="hidden" value="USD" />
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+
+</form></center></p>
+<p><center>For more details: <a href="/automatic-updates-forex-historical-data/">Automatic Updates</a><br/>Google Drive Last Updated at: <b>2025-11-23 21:12:14
+</b></center></p>
+<div style="display: none;"></div>
+        </aside>
+        <aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-side-menu-container"><ul id="menu-side-menu" class="menu"><li id="menu-item-1382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1382"><a href="https://www.histdata.com/download-free-forex-data/">Download Free Forex Data</a></li>
+<li id="menu-item-1381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1381"><a href="https://www.histdata.com/download-by-ftp/">Download by FTP or SFTP</a></li>
+<li id="menu-item-1379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a href="https://www.histdata.com/automatic-updates-forex-historical-data/">Automatic Updates</a></li>
+<li id="menu-item-1380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1380"><a href="https://www.histdata.com/data-transformation-services/">Data Transformation</a></li>
+<li id="menu-item-1384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a href="https://www.histdata.com/f-a-q/">F.A.Q. / Support</a></li>
+<li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1383"><a href="https://www.histdata.com/f-a-q/data-files-detailed-specification/">Data Files: Detailed Specification</a></li>
+<li id="menu-item-1385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1385"><a href="https://www.histdata.com/f-a-q/metatrader-how-to-import-from-csv/">MetaTrader: How to Import from CSV</a></li>
+</ul></div></aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://www.histdata.com/2022/11/28/3rd-data-update-for-november-2022/">3rd Data Update for November 2022</a>
+									</li>
+											<li>
+					<a href="https://www.histdata.com/2022/11/14/2nd-data-update-for-november-2022/">2nd Data Update for November 2022</a>
+									</li>
+											<li>
+					<a href="https://www.histdata.com/2022/11/08/data-update-for-november-2022/">Data Update for November 2022</a>
+									</li>
+											<li>
+					<a href="https://www.histdata.com/2022/09/25/data-update-for-september-2022/">Data Update for September 2022</a>
+									</li>
+											<li>
+					<a href="https://www.histdata.com/2022/08/30/data-update-for-august-2022/">Data Update for August 2022</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+				<li class="cat-item cat-item-17"><a href="https://www.histdata.com/category/forex-historical-data/">Forex Historical Data</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://www.histdata.com/category/quotes-update/">Quotes Update</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.histdata.com/category/uncategorized/">Uncategorized</a>
+</li>
+		</ul>
+			</aside></div><!-- #sidebar -->
+</div><!-- #content-wrapper -->
+<div id="footer-wrapper">
+	<footer id="main-footer" role="contentinfo">
+		<div id="copyright">&copy; 2025 HistData.com</div>
+		<div id="info">Powered by			<a href="http://bestweblayout.com/" target="_blank">BestWebLayout</a> and			<a href="http://wordpress.org/" target="_blank">WordPress</a>
+		</div>
+	</footer><!-- #main-footer -->
+</div><!-- #footer-wrapper -->
+</div><!-- #page-wrapper -->
+<!--googleoff: all--><div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out or exit the site if you wish. <a role='button' tabindex='0' class="cli_settings_button" style="margin:5px 20px 5px 20px;" >Cookie settings</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block;  margin:5px; ">ACCEPT</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button type="button" class="cli-modal-close" id="cliModalClose">
+        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+        <span class="wt-cli-sr-only">Close</span>
+      </button>
+      <div class="cli-modal-body">
+        <div class="cli-container-fluid cli-tab-container">
+    <div class="cli-row">
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-privacy-overview">
+                <h4>Privacy Overview</h4>                                   
+                <div class="cli-privacy-content">
+                    <div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+                </div>
+                <a class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a>            </div>
+        </div>  
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+              
+                            <div class="cli-tab-section">
+                    <div class="cli-tab-header">
+                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" >
+                            Necessary 
+                        </a>
+                    
+                    <span class="cli-necessary-caption">Always Enabled</span>                     </div>
+                    <div class="cli-tab-content">
+                        <div class="cli-tab-pane cli-fade" data-id="necessary">
+                            <p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
+                        </div>
+                    </div>
+                </div>
+              
+                            <div class="cli-tab-section">
+                    <div class="cli-tab-header">
+                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab" >
+                            Non-necessary 
+                        </a>
+                    <div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked />
+                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+                    </div>                    </div>
+                    <div class="cli-tab-content">
+                        <div class="cli-tab-pane cli-fade" data-id="non-necessary">
+                            <p>Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.</p>
+                        </div>
+                    </div>
+                </div>
+                       
+        </div>
+    </div> 
+</div> 
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<script type="text/javascript">
+  /* <![CDATA[ */
+  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_2_hidebar":false,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"}';
+  /* ]]> */
+</script>
+<!--googleon: all--><script type='text/javascript' src='https://www.histdata.com/wp-includes/js/wp-embed.min.js?ver=5.4.18'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.4.18' async='async'></script>
+</body>
+</html>

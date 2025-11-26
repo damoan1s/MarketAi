@@ -1,0 +1,115 @@
+✨ اليوم 1 → اليوم 20: البنية الأساسية
+
+Day 1: إنشاء المشروع + README
+Day 2: إنشاء البيئة + تفعيل venv
+Day 3: التعامل مع الملفات + تنظيم project structure
+Day 4: تثبيت pandas + numpy + matplotlib
+Day 5: قراءة بيانات CSV
+Day 6: تنظيف البيانات + معالجة nulls
+Day 7: أول رسم بياني (basic plot)
+Day 8: Line plot للـ OHLC
+Day 9: Candlestick plot (intro)
+Day 10: حفظ الصور + تنظيم الرسوم
+Day 11: تمارين real datasets
+Day 12: إضافة مؤشرات بسيطة (MA)
+Day 13: أكثر من MA على نفس الشارت
+Day 14: مقارنة البيانات futures vs spot (قراءة فقط)
+Day 15: Normalization 0-1
+Day 16: Z-score normalization
+Day 17: Feature extraction basic
+Day 18: بناء dataset بسيط
+Day 19: CSV pipeline (raw → normalized)
+Day 20: Checkpoint Review (v0.1 Ready)
+
+🔥 اليوم 21 → 40: ROOT 1 (Market Structure Engine)
+
+Day 21: تعريف Swing Points
+Day 22: كتابة أول وظيفة لاكتشاف swing high/low
+Day 23: تحسين swing detection (ATR + fractal)
+Day 24: رسم swing points على الشارت
+Day 25: اكتشاف structure breaks
+Day 26: اكتشاف HH/HL/LH/LL
+Day 27: angle math: حساب زاوية الحركة بين قاعين
+Day 28: angle deviation system
+Day 29: slope detection
+Day 30: momentum slope map
+Day 31: consolidation detection
+Day 32: expansion detection
+Day 33: structure compression/expansion engine
+Day 34: microstructure labeling
+Day 35: labeling market cycles (A–E)
+Day 36: divergence basic (structure-based)
+Day 37: futures-vs-spot structure comparison
+Day 38: root1 integrated engine
+Day 39: اختبار Root1 على بيانات حقيقية
+Day 40: Checkpoint Review (Root 1 Completed)
+
+🔥 اليوم 41 → 60: ROOT 2 (Smart Indicators)
+
+Day 41: تعريف Absorption Zones
+Day 42: imbalance scanner
+Day 43: liquidity pressure
+Day 44: absorption zone map
+Day 45: orderflow approximation (بدون footprint)
+Day 46: divergence engine v2
+Day 47: slope-break divergence
+Day 48: liquidity trap detection
+Day 49: building smart-indicator engine
+Day 50: visualization layer (heatmap)
+Day 51: futures-spot imbalance detection
+Day 52: compression + liquidity behavior
+Day 53: Add smart indicator scoring
+Day 54: indicator layering system
+Day 55: smart indicator final engine
+Day 56: Testing smart indicators على زوج واحد
+Day 57: Testing smart indicators on multiple datasets
+Day 58: root2 integration into core
+Day 59: كتابة وثيقة indicators.md
+Day 60: Checkpoint Review (Root 2 Completed)
+
+🔥 اليوم 61 → 80: ROOT 3 (Intent Engine)
+
+Day 61: تعريف Intent Engine
+Day 62: futures vs spot delta calculation
+Day 63: normalized deviation model
+Day 64: cross-market direction detection
+Day 65: building delta clusters
+Day 66: identifying imbalance in direction
+Day 67: discrepancy scoring
+Day 68: intent ruleset v1
+Day 69: intent engine v1 coding
+Day 70: combining root1 + root2 signals
+Day 71: futures spot divergence model
+Day 72: multi-market sync engine
+Day 73: market intent framework
+Day 74: microstructure filters integration
+Day 75: decision map v1
+Day 76: scenario modeling (up/ down / neutral)
+Day 77: intent engine v2
+Day 78: testing intent on BTC or GOLD
+Day 79: integrate intent into core/intent_engine
+Day 80: Checkpoint Review (Root 3 Completed)
+
+🔥 اليوم 81 → 100: ROOT 4 (Decision + Execution Engine)
+
+
+Day 81: intro to decision engine
+Day 82: swing strategy logic
+Day 83: day trading logic
+Day 84: scalping logic
+Day 85: risk manager v1 rules (static)
+Day 86: building risk_manager.py
+Day 87: building executor.py
+Day 88: webhook API introduction
+Day 89: building webhook_api.py
+Day 90: connecting signals to execution engine
+Day 91: trade logging system
+Day 92: backtest using signals (not full backtester)
+Day 93: scenario testing
+Day 94: unify signals in one output JSON
+Day 95: build MarketAI v1 Signal Engine
+Day 96: generate alerts + logs
+Day 97: testing 50 signals manually
+Day 98: build MarketAI v1 executable script
+Day 99: final cleanup + documentation
+Day 100: MarketAI v1 Release 🚀
