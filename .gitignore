@@ -1,0 +1,22 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Data
+*.csv
+*.json
+
+# Runtime / Temp
+*.tmp
+*.bak
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
